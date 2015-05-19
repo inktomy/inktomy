@@ -11,6 +11,6 @@
   <manifest>
     <item href="mybook-nav.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="module1.html" id="module1.html" media-type="application/xhtml+xml"/>
-  </manifest>
+  <item href="untitled-ca14960a-d81e-4ff2-9983-e0251170d98a-nav.html" id="untitled-ca14960a-d81e-4ff2-9983-e0251170d98a-nav.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="module1-348213ba-9054-4b2f-8ba7-fc0de9f041cf.html" id="module1-348213ba-9054-4b2f-8ba7-fc0de9f041cf.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
   <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1.html"></itemref></spine>
 </package>
